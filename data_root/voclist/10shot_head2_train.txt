@@ -1,0 +1,10 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_4_0166.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_1_0005.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1107_video_5_0121.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_4_0241.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_4_0455.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_4_0184.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1107_video_9_0049.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_4_0348.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/1108_video_4_0018.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_0318.jpg

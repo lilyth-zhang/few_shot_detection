@@ -1,0 +1,13 @@
+metayolo = 1
+metain_type = 2
+data = sunmi 
+neg = 1
+rand = 0
+novel = data/sunmi_novels.txt
+novelid = 0
+# scale = 0
+meta = data/sunmi_traindict_full.txt
+train = /home/zhangli/few_shot_detection/mypj/data_root/sunmi_train.txt
+valid = /home/zhangli/few_shot_detection/mypj/data_root/3f_test.txt
+backup = backup/metayolo
+gpus = 2,3

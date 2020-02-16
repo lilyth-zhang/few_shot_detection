@@ -1,0 +1,1 @@
+/data/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911031000_0218.jpg

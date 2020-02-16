@@ -1,0 +1,5 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_0780.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_0641.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_2_0203.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_1_0000.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_0430.jpg

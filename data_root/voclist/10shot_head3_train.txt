@@ -1,0 +1,10 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911070940_0367.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911051530_0484.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911051100_0452.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911081020_0061.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201910270900_0172.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911051100_0334.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201910200940_0492.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201910311550_0030.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201910201020_0418.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201910312000_0229.jpg

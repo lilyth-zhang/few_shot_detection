@@ -1,0 +1,5 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911022010_0357.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911030940_0316.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911030940_0336.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911031000_0450.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/mozi/jpegimgs/201911030940_0363.jpg

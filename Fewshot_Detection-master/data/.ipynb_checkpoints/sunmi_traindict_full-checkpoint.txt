@@ -1,0 +1,4 @@
+head1 /home/zhangli/few_shot_detection/mypj/data_root/voclist/head1_train.txt
+head2 /home/zhangli/few_shot_detection/mypj/data_root/voclist/head2_train.txt
+head3 /home/zhangli/few_shot_detection/mypj/data_root/voclist/head3_train.txt
+head4 /home/zhangli/few_shot_detection/mypj/data_root/voclist/head4_train.txt

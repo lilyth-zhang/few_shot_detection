@@ -1,0 +1,10 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-22-16h07m40s-rtsp___192_0021.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-25-16h31m22s-rtsp___192_0164.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-22-16h07m40s-rtsp___192_0036.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-25-16h31m22s-rtsp___192_0141.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-26-14h21m57s-rtsp___192_0013.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-25-16h31m22s-rtsp___192_0113.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-27-15h21m26s-rtsp___192_0019.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-25-16h31m22s-rtsp___192_0014.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-22-16h07m40s-rtsp___192_0038.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-22-15h03m00s-rtsp___192_0032.jpg

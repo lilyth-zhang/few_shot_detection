@@ -1,0 +1,1 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats3_769.jpg

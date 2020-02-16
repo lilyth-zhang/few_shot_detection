@@ -1,0 +1,1 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/3f/jpegimgs/vlc-record-2019-11-22-16h07m40s-rtsp___192_0021.jpg

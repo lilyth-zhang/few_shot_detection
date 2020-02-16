@@ -1,0 +1,10 @@
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats3_769.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/office_2_4780.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats1_194.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats1_1818.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats3_1252.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/office_2_9062.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats2_2681.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/office_2_9317.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats1_2490.jpg
+/home/zhangli/few_shot_detection/mypj/data_root/merge/office/jpegimgs/hats3_1559.jpg

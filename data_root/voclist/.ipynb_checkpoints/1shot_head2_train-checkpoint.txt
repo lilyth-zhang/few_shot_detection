@@ -1,0 +1,1 @@
+/data/zhangli/few_shot_detection/mypj/data_root/merge/chshop/jpegimgs/video_1_0130.jpg
