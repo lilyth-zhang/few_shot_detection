@@ -16,7 +16,7 @@
 </div>
 
 <div align=center>
-采用5-shot/20-shot的新类训练图片来检测新背景下的人头效果示例。
+采用20-shot的新类训练图片来检测新背景下的人头效果示例。
 </div> 
 
 ## 论文模型框架
@@ -28,8 +28,7 @@
 
 
 ## 本实验应用场景
-现有三种不同场景（office,chinashop,mozi）下的人头标注数据共7007张，想要训练一个模型在3楼数字店铺下也能用于人头检测的模型，但3楼店铺的标注图片数量有限，仅有5张。（此方法可扩展到其他新店）
-
+现有三种不同场景（A,B,C）下的人头标注数据共7007张，想要训练一个模型在D场景下也能用于人头检测的模型，但D场景的标注图片数量有限，仅有5张。
 
 ## 在自己的数据集上训练模型
 
@@ -160,7 +159,7 @@ python scripts/voc_eval.py results/comp4_det_test_
 
  id      | training set       | val set | mAP@416 | epoch   | lr         | Notes
 ---      |---                 |---      |---      |---      |---         |---
-  0      |chshop+mozi+office  | 3f      |  67.48  |  410    | 0.00033    | few_shot(5-shot)
-  1      |chshop+mozi+office  | 3f      |  67.42  |  410    | 0.001      | yolov2(5-shot)
-  2      |chshop+mozi+office  | 3f      |  78.71  |  410    | 0.00033    | few_shot(20-shot)
-  3      |chshop+mozi+office  | 3f      |  80.78  |  410    | 0.001      | yolov2(20-shot)
+  0      | A + B + C          | D       |  67.48  |  410    | 0.00033    | few_shot(5-shot)
+  1      | A + B + C          | D       |  67.42  |  410    | 0.001      | yolov2(5-shot)
+  2      | A + B + C          | D       |  78.71  |  410    | 0.00033    | few_shot(20-shot)
+  3      | A + B + C          | D       |  80.78  |  410    | 0.001      | yolov2(20-shot)
