@@ -9,7 +9,7 @@
 代码运行环境为 Python 3.5 & PyTorch 0.4.0。
 
 
-## 检测样例 (5-shot)
+## 检测样例 (20-shot)
 
 <div align=center>
 <img src="https://i.loli.net/2020/01/10/M9KIx4vB56NeAC1.jpg" width="740">
