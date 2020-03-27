@@ -162,4 +162,4 @@ python scripts/voc_eval.py results/comp4_det_test_
   0      | A + B + C          | D       |  67.48  |  410    | 0.00033    | few_shot(5-shot)
   1      | A + B + C          | D       |  67.42  |  410    | 0.001      | yolov2(5-shot)
   2      | A + B + C          | D       |  78.71  |  410    | 0.00033    | few_shot(20-shot)
-  3      | A + B + C          | D       |  80.78  |  410    | 0.001      | yolov2(20-shot)
+  3      | A + B + C          | D       |  76.78  |  410    | 0.001      | yolov2(20-shot)
